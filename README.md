@@ -1,2 +1,2 @@
-# gixtuh.github.io
-website repository!1
+# gixtuh's official website
+this is my official website... yeah
